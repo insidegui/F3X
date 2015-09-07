@@ -1,0 +1,6 @@
+[submodule "vendor/GRPushSegue"]
+	path = vendor/GRPushSegue
+	url = https://github.com/insidegui/GRPushSegue
+[submodule "vendor/NTBTask"]
+	path = vendor/NTBTask
+	url = https://github.com/kareman/NTBTask.git
