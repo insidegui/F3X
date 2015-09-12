@@ -66,6 +66,11 @@
     return rect;
 }
 
+- (NSAppearance *)effectiveAppearance
+{
+    return [NSAppearance appearanceNamed:NSAppearanceNameVibrantDark];
+}
+
 @end
 
 @implementation F3WindowFrameView
